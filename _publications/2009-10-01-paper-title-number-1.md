@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Measuring the Severity of the Signs of Eating Disorders Using Similarity-Based Models"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/measuring-eating-disorders
+excerpt: 'Measuring the severity of the signs of eating disorders is a new task introduced in the eRisk 2022 competition. The goal of this task is to infer the severity of the signs of Eating Disorders (ED) in social media users given their writings on said platform. These signs are inventoried by a standard self-report questionnaire. We presented two unsupervised similarity-based models using per-question feature sets that were developed using expert knowledge of discussions of ED online. These features are supported by dense word representations, namely GloVe and word2vec. The obtained results were modest as no training data were available.'
+date: 2022-06-01
+venue: 'CEUR Workshop proceedings
+paperurl: 'http://ceur-ws.org/Vol-3180/paper-74.pdf'
+citation: 'Saravani H., L Normand et al. (2021). &quot;Measuring the Severity of the Signs of Eating Disorders Using Similarity-Based Models&quot; <i>CEUR Workshop Proceedings</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Measuring the severity of the signs of eating disorders is a new task introduced in the eRisk 2022 competition. The goal of this task is to infer the severity of the signs of Eating Disorders (ED) in social media users given their writings on said platform. These signs are inventoried by a standard self-report questionnaire. We presented two unsupervised similarity-based models using per-question feature sets that were developed using expert knowledge of discussions of ED online. These features are supported by dense word representations, namely GloVe and word2vec. The obtained results were modest as no training data were available.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://ceur-ws.org/Vol-3180/paper-74.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Saravani H., L Normand et al. (2021). "Measuring the Severity of the Signs of Eating Disorders Using Similarity-Based Models" <i>CEUR Workshop Proceedings</i>. 1(1).
