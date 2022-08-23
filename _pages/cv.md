@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and software eng., Université du québec à Montréal, 2023 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Research Internship
+ * Solving the high school timetabling project with MaxSAT solvers.
+ * Supervisor: Florent Avellaneda
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2022: Internship
+ * Measuring the Severity of the Signs of Eating Disorders Using Similarity-Based Models.
+ * Supervisor: Marie-Jean Meurs
+ * Co-supervisor: Sébastien Mosser
+
+* Summer 2021: Research internship
+  * Extracting emotions from a twitter corpus.
+  * Duties included: Natural language processing
+  * Supervisor: Sébastien Mosser
   
 Skills
 ======
