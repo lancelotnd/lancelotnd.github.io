@@ -1,7 +1,10 @@
 ---
-title: "Design Project 1"
-excerpt: "Check this programming language I created to generate svgs.<br/><img src='/images/INF600E_chess_board.png'>"
+title: "Rebranding our Discord servers"
+excerpt: "The Discord servers where UQAM's comp. sci students hang out were in need of rebranding so I created a battery of logos<br/><img src='/images/gif_informatique.gif'>"
 collection: portfolio
 ---
 
-As part of a course we had to create our own programming language with would have the ability to draw images. 
+
+Here is the new icon for our Discord server counting about 800 students.
+
+![discord server gif](/images/gif_informatique.gif)
