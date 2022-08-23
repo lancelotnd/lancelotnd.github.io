@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Programming language creation"
+excerpt: "Check this programming language I created to generate svgs.<br/><img src='/images/INF600E_chess_board.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+As part of a course we had to create our own programming language with would have the ability to draw images. 
