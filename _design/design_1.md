@@ -7,4 +7,5 @@ collection: portfolio
 
 Here is the new icon for our Discord server counting about 800 students.
 
+
 ![discord server gif](/images/gif_informatique.gif)
