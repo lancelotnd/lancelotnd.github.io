@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and software eng., Université du québec à Montréal, 2023 (expected)
+* B.S. in Computer Science and software eng., Université du Québec à Montréal, 2023 (expected)
 
 
 Work experience
 ======
 * Summer 2022: Research Internship
- * Solving the high school timetabling project with MaxSAT solvers.
- * Supervisor: Florent Avellaneda
-
+  * Solving the high school timetabling project with MaxSAT solvers.
+  * Supervisor: Florent Avellaneda
 * Winter 2022: Internship
- * Measuring the Severity of the Signs of Eating Disorders Using Similarity-Based Models.
- * Supervisor: Marie-Jean Meurs
- * Co-supervisor: Sébastien Mosser
+  * Measuring the Severity of the Signs of Eating Disorders Using Similarity-Based Models.
+  * Supervisor: Marie-Jean Meurs
+  * Co-supervisor: Sébastien Mosser
+
 
 * Summer 2021: Research internship
   * Extracting emotions from a twitter corpus.
